@@ -1,4 +1,4 @@
-Check List of Sekiro Bosses and Mini Bosses Heavily based on  
+Check List of Sekiro Bosses and Mini Bosses heavily based on  
 
 https://github.com/ZKjellberg/dark-souls-3-cheat-sheet
 
