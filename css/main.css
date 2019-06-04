@@ -1,7 +1,10 @@
 .logo {
 	background-image: url(../img/back6.png);
+	
 	width: 1000px;
 	height: 300px;
+	max-width: 100%;
+	max-height: auto;
 	
 	margin: auto;
 	
