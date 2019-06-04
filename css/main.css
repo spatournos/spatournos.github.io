@@ -1,3 +1,16 @@
+.logo {
+	background-image: url(../img/back6.png);
+	width: 1000px;
+	height: 300px;
+	
+	margin: auto;
+	
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover
+	overflow: hidden
+}
+
 .in_progress,
 .done {
   color: #8F10A1;
