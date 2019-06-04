@@ -4,6 +4,7 @@
 	width: 1000px;
 	height: 300px;
 	max-width: 100%;
+	min-width: 300px;
 	max-height: auto;
 	
 	margin: auto;
