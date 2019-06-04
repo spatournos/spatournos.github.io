@@ -28,6 +28,12 @@
 }
 .done { color: #009933; }
 
+@media only screen and (min-width : 320px) and (max-width: 767px){
+	body{
+	background-image: url(../images/backm.png) no-repeat center center;
+	}
+}
+
 @media print {
     body { color: #000; }
     .navbar, #intro, input[type="checkbox"], .done, .in_progress { display: none; }
