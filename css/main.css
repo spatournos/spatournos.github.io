@@ -3,6 +3,7 @@
 	
 	width: 1000px;
 	height: 300px;
+	
 	max-width: 100%;
 	max-height: auto;
 	
@@ -28,9 +29,9 @@
 }
 .done { color: #009933; }
 
-@media only screen and (min-width : 320px) and (max-width: 767px){
+@media screen and (max-width: 767px){
 	body{
-	background-image: url(../images/backm.png) no-repeat center center;
+		background-image: url(../images/backm.png) no-repeat center center;
 	}
 }
 
