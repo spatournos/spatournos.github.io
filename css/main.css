@@ -30,7 +30,7 @@
 
 @media (max-width: 576px){
 	body{
-		background-image: url(../images/backm.png) no-repeat center center;
+		background-image: url(../img/backm.png) no-repeat center center;
 		width: 640px;
 		height: 300px;
 		margin: auto;
