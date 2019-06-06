@@ -32,8 +32,11 @@
 	body{
 		background-image: url(../img/backm.png); 
 		background-repeat: no-repeat;
-		width: 640px;
-		height: 300px;
+		width: 480px;
+		height: 180px;
+		
+		max-width: 100%;
+		max-height: auto;
 		margin: auto;
 	}
 }
